@@ -1,5 +1,4 @@
-# 🍽️ Restaurante Fictício
-
+# 🍽️ Criação de Interface Gastronômica
 ## 📌 Descrição
 Projeto em **HTML e CSS** que simula o site de um restaurante fictício.  
 Inclui páginas de apresentação, cardápio, galeria, contato e informações institucionais.
